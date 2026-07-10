@@ -1,6 +1,5 @@
 # Hi, I'm Vijay Gaikwad
 
-<img width="800" height="1066" alt="image" src="https://github.com/user-attachments/assets/19caca2e-e1c6-46c1-af92-60a9dd02acec" />
 
 
 ### AI Native Product Designer | UX Lead | Enterprise SaaS | Design Systems
