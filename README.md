@@ -1,31 +1,67 @@
-Hi, I'm Vijay
+# 👋 Hi, I'm Vijay Gaikwad
 
-AI Native Product Designer
+### AI Native Product Designer | UX Lead | Enterprise SaaS | Design Systems
 
-14+ Years building Enterprise SaaS
+I have 14+ years of experience designing enterprise SaaS products, building scalable design systems, and leading user-centered product initiatives. Recently, I've been focused on integrating AI into product design workflows, rapid prototyping, and developer collaboration.
 
-🧠 UX Strategy
+---
 
-🎨 Design Systems
+## 🚀 What I Do
 
-🤖 AI Product Design
+- 🎨 Product Design
+- 🧠 UX Strategy
+- 🔍 UX Research
+- 🏗️ Design Systems
+- 🤖 AI-Assisted Product Design
+- ⚡ HTML/CSS Prototypes
+- ♿ Accessibility (WCAG)
 
-📊 User Research
+---
 
-⚡ HTML/CSS Prototypes
+## 🛠️ Tools
 
+**Design**
+- Figma
+- FigJam
+- Miro
 
-Featured Projects
+**AI**
+- ChatGPT
+- Claude
+- Cursor
+- Lovable
+- Bolt
 
-🚀 UX Case Studies
+**Development**
+- GitHub
+- HTML
+- CSS
+- React (Working Knowledge)
 
-🚀 AI Experiments
+---
 
-🚀 Design System
+## 📂 Featured Projects
 
-🚀 Product Thinking
+Coming soon...
 
-🚀 Accessibility
+- 🚀 Enterprise UX Case Studies
+- 🚀 AI Product Design Experiments
+- 🚀 Design System Components
+- 🚀 Accessibility Playbook
+- 🚀 HTML Prototype Collection
 
+---
 
-Let's Connect
+## 🌱 Currently Learning
+
+- AI Engineering for Designers
+- React for Product Designers
+- Design-to-Code Workflows
+- MCP & AI Agents
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/your-link
+- Portfolio: https://dvjarts.com
